@@ -1,0 +1,14 @@
+C:\Users\niewi\source\repos\zajecia105\zajecia105\bin\Debug\net8.0\zajecia105.exe
+C:\Users\niewi\source\repos\zajecia105\zajecia105\bin\Debug\net8.0\zajecia105.deps.json
+C:\Users\niewi\source\repos\zajecia105\zajecia105\bin\Debug\net8.0\zajecia105.runtimeconfig.json
+C:\Users\niewi\source\repos\zajecia105\zajecia105\bin\Debug\net8.0\zajecia105.dll
+C:\Users\niewi\source\repos\zajecia105\zajecia105\bin\Debug\net8.0\zajecia105.pdb
+C:\Users\niewi\source\repos\zajecia105\zajecia105\obj\Debug\net8.0\zajecia105.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niewi\source\repos\zajecia105\zajecia105\obj\Debug\net8.0\zajecia105.AssemblyInfoInputs.cache
+C:\Users\niewi\source\repos\zajecia105\zajecia105\obj\Debug\net8.0\zajecia105.AssemblyInfo.cs
+C:\Users\niewi\source\repos\zajecia105\zajecia105\obj\Debug\net8.0\zajecia105.csproj.CoreCompileInputs.cache
+C:\Users\niewi\source\repos\zajecia105\zajecia105\obj\Debug\net8.0\zajecia105.dll
+C:\Users\niewi\source\repos\zajecia105\zajecia105\obj\Debug\net8.0\refint\zajecia105.dll
+C:\Users\niewi\source\repos\zajecia105\zajecia105\obj\Debug\net8.0\zajecia105.pdb
+C:\Users\niewi\source\repos\zajecia105\zajecia105\obj\Debug\net8.0\zajecia105.genruntimeconfig.cache
+C:\Users\niewi\source\repos\zajecia105\zajecia105\obj\Debug\net8.0\ref\zajecia105.dll
